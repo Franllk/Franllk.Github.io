@@ -3,12 +3,186 @@
     <title>弗兰的自留地</title>
     <link href="https://franllk.github.io/feed.xml" rel="self" />
     <link href="https://franllk.github.io" />
-    <updated>2022-03-23T20:49:34+08:00</updated>
+    <updated>2022-03-24T21:10:07+08:00</updated>
     <author>
         <name>弗兰</name>
     </author>
     <id>https://franllk.github.io</id>
 
+    <entry>
+        <title>弗兰的 FIRE 计划</title>
+        <author>
+            <name>弗兰</name>
+        </author>
+        <link href="https://franllk.github.io/fu-lan-de-fire-ji-hua.html"/>
+        <id>https://franllk.github.io/fu-lan-de-fire-ji-hua.html</id>
+            <category term="弗兰的 FIRE 计划"/>
+            <category term="博客"/>
+
+        <updated>2022-03-24T21:00:17+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    测试
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>作品集</title>
+        <author>
+            <name>弗兰</name>
+        </author>
+        <link href="https://franllk.github.io/cha-hua-ji.html"/>
+        <id>https://franllk.github.io/cha-hua-ji.html</id>
+
+        <updated>2022-03-24T21:10:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这里展示的是我日常练习和在项目中的设计作品，包括的内容有界面设计、插画设计、动效设计、3D 设计等等。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    这里展示的是我日常练习和在项目中的设计作品，包括的内容有界面设计、插画设计、动效设计、3D 设计等等。
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--wide">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/0f13384a3279aa5f0d8def24f61e4d9c.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/0f13384a3279aa5f0d8def24f61e4d9c.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/2f3bfa6a8cb81f466550c6a4a348af65.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/2f3bfa6a8cb81f466550c6a4a348af65.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/5d52f5ec779322e052ca4781e8b7f601.gif" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/5d52f5ec779322e052ca4781e8b7f601.gif" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/6d39d3c34ef384a5301e4d78b5729cc9.gif" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/6d39d3c34ef384a5301e4d78b5729cc9.gif" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/7a82d20995a6f7ed4e90aa0ad8e559ca.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/7a82d20995a6f7ed4e90aa0ad8e559ca.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/14e270f3c033095639102cef4dee9fa7.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/14e270f3c033095639102cef4dee9fa7.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/18b98d0c963506f61509d875d979df47.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/18b98d0c963506f61509d875d979df47.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/88a6e6f4a4de975d3bbb468260507885.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/88a6e6f4a4de975d3bbb468260507885.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/189f99f52ddae1c04ee81b4e54344164.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/189f99f52ddae1c04ee81b4e54344164.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/2945df191050b0ab13ea9156865ec13d.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/2945df191050b0ab13ea9156865ec13d.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/7731890cdccfaa52411841cf473e751c.webp" data-size="1200x900">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/7731890cdccfaa52411841cf473e751c.webp" height="900" width="1200" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/569325101e0b14b28410016c83b5af8c.webp" data-size="1200x900">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/569325101e0b14b28410016c83b5af8c.webp" height="900" width="1200" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/a0596e5328edf59c6136b07014a544b1.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/a0596e5328edf59c6136b07014a544b1.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/b508485bb77b05acd7d153a1ba991a4b.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/b508485bb77b05acd7d153a1ba991a4b.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/blob_4x.png" data-size="1600x1200">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/blob_4x-thumbnail.png" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/blob-1.png" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/blob-1-thumbnail.png" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/blob-2.png" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/blob-2-thumbnail.png" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/blob.png" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/blob-thumbnail.png" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/c144e8844fd0a389bd6e6e48c57b137d.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/c144e8844fd0a389bd6e6e48c57b137d.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/cb8cf5bfb852993ec04b828a3b3256c1.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/cb8cf5bfb852993ec04b828a3b3256c1.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/ccc748a0e24f572a986904b140217b3d.webp" data-size="1200x900">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/ccc748a0e24f572a986904b140217b3d.webp" height="900" width="1200" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/e66d1d0a12fb94659487ccf5e2d13c6c.webp" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/e66d1d0a12fb94659487ccf5e2d13c6c.webp" height="600" width="800" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/image_processing20200404-26327-1wf5s5m.gif" data-size="1600x1200">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/image_processing20200404-26327-1wf5s5m.gif" height="1200" width="1600" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://franllk.github.io/media/posts/8/gallery/palm.gif" data-size="800x600">
+        <img loading="lazy" src="https://franllk.github.io/media/posts/8/gallery/palm.gif" height="600" width="800" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> 盯潮 Redesign</title>
         <author>
@@ -16,10 +190,10 @@
         </author>
         <link href="https://franllk.github.io/cheng-chao-redesign.html"/>
         <id>https://franllk.github.io/cheng-chao-redesign.html</id>
-            <category term="Design"/>
+            <category term="项目"/>
             <category term="APP设计"/>
 
-        <updated>2022-03-23T20:49:34+08:00</updated>
+        <updated>2022-03-24T20:51:08+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://franllk.github.io/media/posts/7/DC-Feng-Mian-1.jpg" alt="" />
@@ -87,6 +261,234 @@
 <p>软件方面：目前我的主主要设计生成工具是 <strong><span style="color: #e3782e;">Figma</span></strong>，强大的 Figma 基本能覆盖到所有的设计工作。包括设计系统、页面设计、交互设计、原型设计等等。其他的设计工具还有 <strong><span style="color: #e3782e;">Sketch、Photoshop、After Effect、Lottie、Principle、Blender（3D）</span></strong>。</p>
 <p>设计方面：我主要设计的领域有：<strong><span style="color: #e3782e;">APP设计、B端设计、</span></strong><strong><span style="color: #e3782e;">交互设计、</span></strong><strong><span style="color: #e3782e;">图标设计、</span></strong><strong><span style="color: #e3782e;">动效设计、3D设计（学习中）</span></strong>。</p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>译文</title>
+        <author>
+            <name>弗兰</name>
+        </author>
+        <link href="https://franllk.github.io/ji-xu-ce-shi-wen-ben-yang-shi.html"/>
+        <id>https://franllk.github.io/ji-xu-ce-shi-wen-ben-yang-shi.html</id>
+            <category term="译文"/>
+            <category term="博客"/>
+
+        <updated>2022-03-24T21:00:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                    如何完美地执行从设计到开发的交接流程 无论你的公司处于什么阶段，管理设计师和开发人员之间的沟通是至关重要的。 管理这个过程往往具有挑战性，涉及到似乎无休止的电子邮件、信息和简短的会议。设计师和开发人员在使你的数字产品成为现实的过程中同样至关重要。 但是，由于他们往往有完全不同的背景和技能，沟通并不总是顺利和直观的。 简单地说，设计交接过程是设计者或设计团队在完成设计后需要采取的所有行动，以使开发团队可以开始执行开发。交接的目的是使所有参与其中的人保持一致，并为开发人员提供开始写代码所需的所有信息，或者有时对执行任务给出一个现实的评估。 这个交接过程不一定与 Scrum 冲刺同步，甚至不一定与Scrum 冲刺相连。一个设计任务可能需要一个以上的冲刺来完成，或者可以分解成适合冲刺的里程碑，直到完成实施。因此，从某种意义上说，在设计任务完成之前，交付所有的设计信息其实没有任何意义。 尽管如此，请记住，在每个设计任务之前和期间，设计师和开发人员之间的持续沟通和合作仍然是非常重要的。这一点我们会再谈，但真的怎么强调都不为过。 一种方法是采用双轨制，有两个独立但相互联系的工作积压（backlog）。一个给设计团队，一个给开发团队：发现工作积压和实施工作积压。 🙋‍♂️&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com">
+<h2 data-tool="mdnice编辑器"> </h2>
+<h2 data-tool="mdnice编辑器"><span class="content">如何完美地执行从设计到开发的</span>交接流程</h2>
+<p data-tool="mdnice编辑器">无论你的公司处于什么阶段，管理设计师和开发人员之间的沟通是至关重要的。</p>
+<p data-tool="mdnice编辑器">管理这个过程往往具有挑战性，涉及到似乎无休止的电子邮件、信息和简短的会议。设计师和开发人员在使你的数字产品成为现实的过程中同样至关重要。</p>
+<p data-tool="mdnice编辑器">但是，由于他们往往有完全不同的背景和技能，沟通并不总是顺利和直观的。</p>
+<h2 data-tool="mdnice编辑器"><span class="content">什么是设计和开发的交接过程？</span></h2>
+<p data-tool="mdnice编辑器">简单地说，设计交接过程是设计者或设计团队在完成设计后需要采取的所有行动，以使开发团队可以开始执行开发。交接的目的是使所有参与其中的人保持一致，并为开发人员提供开始写代码所需的所有信息，或者有时对执行任务给出一个现实的评估。</p>
+<h2 data-tool="mdnice编辑器"><span class="content">设计和开发人员的交接和 Scrum 过程</span></h2>
+<p data-tool="mdnice编辑器">这个交接过程不一定与 Scrum 冲刺同步，甚至不一定与Scrum 冲刺相连。一个设计任务可能需要一个以上的冲刺来完成，或者可以分解成适合冲刺的里程碑，直到完成实施。因此，从某种意义上说，在设计任务完成之前，交付所有的设计信息其实没有任何意义。</p>
+<p data-tool="mdnice编辑器">尽管如此，请记住，在每个设计任务之前和期间，设计师和开发人员之间的持续沟通和合作仍然是非常重要的。这一点我们会再谈，但真的怎么强调都不为过。</p>
+<p data-tool="mdnice编辑器">一种方法是采用双轨制，有两个独立但相互联系的工作积压（backlog）。一个给设计团队，一个给开发团队：发现工作积压和实施工作积压。</p>
+<p>🙋‍♂️ 在英文里，backlog 指的是：（大量）堆积、积压的事物，常指「尚未完成的工作」，或「需要尽快处理的事情」。而敏捷项目中用到这个词，正是取其「积压、待办」的含义，用 product backlog 来指：一系列计划实现的产品功能/特性，或项目的交付物清单。中文里目前没有统一的翻译，你可以把它称为：产品待办需求。</p>
+<h3 data-tool="mdnice编辑器"><span class="content">发现积压（需求）</span></h3>
+<p data-tool="mdnice编辑器">设计师的工作方式与开发人员完全不同。他们通常通过需求来工作，他们把需求重构为假设，然后他们的目标是验证这些假设。不强迫设计人员进入冲刺模式有很多好处，因为这允许他们在他们工作的需求的背景和复杂性中自由工作。其结果是验证了需求，然后可以进入传统的冲刺积压。</p>
+<h3 data-tool="mdnice编辑器"><span class="content">实现积压（需求）</span></h3>
+<p data-tool="mdnice编辑器">这是传统的开发者的计划安排，其中存在用户故事、验收标准和正确的文档水平。当设计和开发决定了什么应该一起实现时，在这个阶段，每个需求都经过了设计和技术可行性的验证。</p>
+<h1 data-tool="mdnice编辑器"><span class="content">如何创建一个优秀的交接流程</span></h1>
+<p data-tool="mdnice编辑器">设计师与开发人员之间的交接是开发数字产品的关键一步，但这也是一个有点棘手的步骤。在交接过程中存在着许多潜在的问题。</p>
+<p data-tool="mdnice编辑器">当完成的 UI 设计准备由开发团队实施时，就会发生交接。作为一名 UI 设计师，你通常会在这个阶段感到非常兴奋，但往往你会发现，交接的过程中会出现一些坎坷。</p>
+<p data-tool="mdnice编辑器">这是为什么呢？为什么把你的设计草图交给开发团队，让他们按照你的设想简单地组织起来，是如此具有挑战性呢？</p>
+<p data-tool="mdnice编辑器">有几个原因导致在交接过程中经常会出现一些小问题，我会尽量把它们全部解决掉。</p>
+<p data-tool="mdnice编辑器">尽管如此，为了使交接和迭代过程尽可能顺利，我还是会与你分享一些技巧和窍门。</p>
+<p data-tool="mdnice编辑器">让我们来看看在设计师和开发人员的合作中一些常见的挑战。</p>
+<h2 data-tool="mdnice编辑器"><span class="content">缺乏沟通</span></h2>
+<p data-tool="mdnice编辑器">设计师倾向于关注用户界面的外观和感觉，而开发人员通常更关注如何真正使事情运作起来的具体方面。为了更好地了解对方，有效的沟通是关键。</p>
+<p data-tool="mdnice编辑器">这是高效协作的最关键的方面之一。通常情况下，<strong>开发者和设计者没有共同的语言和词汇来沟通。这可能导致误解和大量时间浪费在交流上。</strong></p>
+<p data-tool="mdnice编辑器">一个普遍的错误是，团队在开始合作之前等待了太长时间。例如，设计师经常在完成全部的设计后才把它们交给开发团队。这时通常发生的情况是，会有多个问题是开发团队无法解决的。另一方面，如果开发人员从一开始就参与进来，他们就可以引导设计人员找到更可行的解决方案。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事，它们将对沟通产生非常积极的：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>在 Slack（工作协作软件） 上有一个专门的渠道，邀请所有相关方参与。</section>
+</li>
+<li>
+<section>为你的沟通建立准则和惯例。</section>
+</li>
+<li>
+<section>使用相同的文件共享和数据存储系统，无论是Google Drive、Dropbox，还是任何其他类似的工具。</section>
+</li>
+<li>
+<section>计划与所有参与项目的团队成员举行定期会议。</section>
+</li>
+<li>
+<section>如果有不清楚的地方，要养成打电话的习惯，而不是创造无休止的电子邮件。（这个国内好像不太会存在，意思就是及时沟通吧。）</section>
+</li>
+</ul>
+<h2 data-tool="mdnice编辑器"><span class="content">没有足够的信息</span></h2>
+<p data-tool="mdnice编辑器">当 UI 设计师在 Figma 中创建了一个设计时，我们很想直接把链接发给工程师，并认为他们会从那里接手。但事实上，开发人员需要比单纯的设计草图提供更多的信息。他们需要了解事物的流程和运动，用户旅程的不同阶段，以及每一步需要注意的事项。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事情，以确保开发团队获得他们需要的信息:</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>创建流程，确保所有必要的组件都有良好的文档记录。</section>
+</li>
+<li>
+<section>分享关于触发器和用户旅程中的不同阶段等方面的额外信息。</section>
+</li>
+<li>
+<section>要求开发人员创建一个检查表，以确保你不会错过基本要素。</section>
+</li>
+<li>
+<section>在你的设计工具中保持一个合乎逻辑的结构和系统，并在可能有不同解释空间的地方添加注释。</section>
+</li>
+<li>
+<section>在设计工具中使用状态更新来显示正在进行、暂停或完成的设计部分</section>
+</li>
+</ul>
+<blockquote>
+<p>🙋‍♂️ 触发器UI事件在系统检测到用户界面的变化时执行一个流程，例如，当一个窗口被打开，一个按钮被按下，一个列表被滚动，文本被输入等等。一些非常频繁发生的事件可以被系统跳过。</p>
+</blockquote>
+<h2 data-tool="mdnice编辑器"><span class="content">没有明确的说明书（规格）</span></h2>
+<p data-tool="mdnice编辑器">有时，缺乏清晰、详细和用户友好的原型会给开发团队带来问题。这个问题越来越不成问题了，因为现在有各种各样的软件可以帮助设计师快速、方便地提供所有这些说明。</p>
+<p data-tool="mdnice编辑器">通过将最新的设计和原型上传到每个软件各自的在线环境中，开发人员获得了所有需要的说明（调色板、排版、填充物等），使用户界面容易获得并准备好实施。</p>
+<p data-tool="mdnice编辑器">这个类别中一些最常见的软件程序包括 Zeplin、 Marvel、 InVision 和 Abstract (如果你将其用作版本控制工具的话)。而且，几乎所有的 UI 工具，比如 Sketch、 Figma 和 Adobe XD，都有自己的特性来导出这些说明。</p>
+<blockquote>
+<p>🙋‍♂️ 国内的有蓝湖，但是现在可以直接在 Figma 中展示这些说明和规格，通常是组件库的一部分。</p>
+</blockquote>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事情，确保开发团队得到他们需要的说明和文档：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>如果你在设计用户界面时仍在使用非 UI 工具，如 Photoshop 或 Illustrator，请帮你自己一个忙，换成合适的 UI 软件。这对每个参与其中的人来说，都会有很大的不同。（这通常需要 leader 和 Boss 有这个意识）</section>
+</li>
+<li>
+<section>商定一个对设计师和开发人员都友好的原型制作平台。</section>
+</li>
+<li>
+<section>使用基于云的服务，以便所有利益相关者可以随时访问所有信息。</section>
+</li>
+<li>
+<section>确保设计系统在你选择的平台上实施并随时可用。</section>
+</li>
+<li>
+<section>在工具中保持一个有序的结构，让每个人都能理解和遵守，以避免混乱和误解。</section>
+</li>
+</ul>
+<h2 data-tool="mdnice编辑器"><span class="content">没有设计系统</span></h2>
+<p data-tool="mdnice编辑器">当没有适当的设计系统时，意味着没有设计师需要遵循的样式指南，这会导致许多迭代。没有约束的设计师会变得过于富有创造力，而且很难创造出一个视觉上连贯的最终产品。</p>
+<p data-tool="mdnice编辑器">这里的解决方案是就真正清晰的指导方针达成一致，并将它们写在一个每个人都可以访问的共享文档中。通过这种方式，每个人都知道规则，并在这些共享的界限内创造性地工作。结果将是一个视觉上令人愉快和连贯的最终产品。</p>
+<p data-tool="mdnice编辑器">对于设计系统来说，一个很好的工具是 Abstract。许多设计团队正在使用 Abstract 作为一个集中的记录系统和真相的单一来源。另一个流行的工具是 Zeplin，你可以发布来自 Figma、 Sketch、 Adobe XD 和 Photoshop 的最终设计。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事，它将对设计产生非常积极的影响：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>使用交互式原型来帮助团队中的每个人理解什么是共同的目标，以及产品的发展方向。</section>
+</li>
+<li>
+<section>为开发人员构建一个样式指南，并将其转化为一个设计系统。</section>
+</li>
+<li>
+<section>商定一个标准的命名法。在对文件进行命名和分类时，使用一致的、符合逻辑的命名惯例。</section>
+</li>
+<li>
+<section>创建一个检查清单，这样设计师总是知道他们需要创建什么样的元素，并且没有遗漏任何东西。</section>
+</li>
+<li>
+<section>只保留更新的版本和相关的迭代，以避免混淆和误解。</section>
+</li>
+</ul>
+<p data-tool="mdnice编辑器"><strong>构建设计系统并与开发人员合作的好处</strong></p>
+<p data-tool="mdnice编辑器">设计系统可以帮助营销人员、设计师、开发人员和数据分析师快速有效地合作，同时保持品牌所需的一致性。如果没有这些，很快就会导致创造性的混乱。</p>
+<p data-tool="mdnice编辑器">至少，设计系统是所有可重用设计元素、 UI 组件以及指导其使用的标准的集合。</p>
+<blockquote class="multiquote-1" data-tool="mdnice编辑器">
+<p>一个好的设计系统应该包含整个设计平台。这包括设计工具，品牌标识，颜色，排版，语调和图像。还有 UI 和应用程序组件、代码库、内容库、文档和工作流。</p>
+</blockquote>
+<p data-tool="mdnice编辑器">一个设计系统使你能够在规模上进行协作设计，并保持一致性。</p>
+<h2 data-tool="mdnice编辑器"><span class="content">团队之间的知识鸿沟</span></h2>
+<p data-tool="mdnice编辑器">通常情况下，开发人员根本不知道设计人员在说什么，反之亦然。</p>
+<p data-tool="mdnice编辑器">为定期的知识共享创造时间和空间是一项投资，它将得到回报，无论是从更好的产品还是从更快乐的同事角度来看。例如，如果设计师了解哪些类型的设计功能需要更复杂的编码，这对各方都是有益的。而且，如果开发者理解设计团队为什么对某些方面如此坚持，那也是很好的。了解其他团队的答案和行动背后的 「原因」，可以减少摩擦和挫折感，为更好的解决方案铺平道路。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事情，以缩小团队之间的知识鸿沟:</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>腾出时间来学习和分享知识，比如每周一次午餐学习或者每月一次分组讨论会。</section>
+</li>
+<li>
+<section>留出时间进行头脑风暴，这样团队可以在没有即时交付压力的情况下进行协作。这将激发创造力，加强协作。</section>
+</li>
+<li>
+<section>创建一个名为 「学习 」或类似的 Slack 频道，并鼓励大家分享精彩的阅读、视频和播客。</section>
+</li>
+<li>
+<section>邀请外部专家举办跨团队的研讨会，以达到教育和鼓舞人心的目的。</section>
+</li>
+<li>
+<section>在项目结束后，建立反馈和跟进的程序，以便每个人都能从成功的地方和可以改善的地方中学习。（复盘）</section>
+</li>
+</ul>
+<h2 data-tool="mdnice编辑器"><span class="content">孤岛和缺乏团队精神</span></h2>
+<p data-tool="mdnice编辑器">对共同目标的认识和共同解决问题的意愿是成功的关键因素。但通常情况下，开发人员和设计师孤立的环境中工作，除了来回发送的电子邮件和 Slack 信息外，他们几乎不认识对方。在最坏的情况下，这可能会滋生不必要的摩擦、挫折，甚至是团队间的竞争。</p>
+<p data-tool="mdnice编辑器">解决这个问题的办法是确保团队有机会进行社交活动，并在工作和项目之外相互了解。在设计人员和开发人员参与的团队建设活动中投入资金是值得的，因为伟大的团队精神将使整个协作更加顺利。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事来提高团队精神，并帮助你的团队建立联系：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>定期计划团队建设活动。它不一定非得是大事；它可以只是工作之余的研讨会。</section>
+</li>
+<li>
+<section>与两个团队定期举行头脑风暴会议，鼓励每个人把自己的想法拿到桌面上来。</section>
+</li>
+<li>
+<section>邀请一位主持人，围绕小组动态、协作和创新进行整个动态会议。</section>
+</li>
+<li>
+<section>确保创造一个坚实的心理安全基础，让每个人都感觉到所有的想法都受到欢迎并被倾听。</section>
+</li>
+</ul>
+<h2 data-tool="mdnice编辑器"><span class="content">文案人员来得太晚</span></h2>
+<p data-tool="mdnice编辑器">在设计过程中，一个非常常见的错误是，文案被当作事后的想法来对待。这意味着一旦文案人员被邀请参加设计过程，就会有很多的反复和来回--因为可以理解，他们也想有发言权。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事，以确保文案不会太晚：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>从一开始就邀请文案人员参与这个过程。</section>
+</li>
+<li>
+<section>询问你的文案人员哪些章节和特点可以帮助他们以最好的方式传达信息。</section>
+</li>
+<li>
+<section>始终在开始构建设计之前，将文案人员带入你的项目中，因为可以放心，他们会改变设计的。</section>
+</li>
+<li>
+<section>确保你在为设计团队和开发人员准备的渠道和论坛中包括文案人员。</section>
+</li>
+<li>
+<section>与你的文案人员一起制定一个检查表和风格指南，以保证整个项目的一致性和连贯性</section>
+</li>
+</ul>
+<blockquote>
+<p>🙋‍♂️ 这里的文案人员说的是 Copywriter ：中文来讲就是文案撰写，一个产品和品牌需要有自己的「语调」（想想苹果公司的广告），在我目前接触的工作中，我感觉企业不是特别重视这一块。简单来说，Copywriting 就是写出抓住读者眼球的文字撰写技巧。除了抓住读者的第一眼之外，确保他们一直阅读下去也是它的用义之一，最后就是触发读者做出行动。</p>
+</blockquote>
+<h2 data-tool="mdnice编辑器"><span class="content">动画不被理解或处理不当</span></h2>
+<p data-tool="mdnice编辑器">动画在大多数数字设计项目中扮演着重要的角色，但如何传达它们应该如何发挥，以及什么应该触发它们，可能是一个挑战。就像所有其他的设计元素一样，在涉及到动画的时候，永远不要做任何假设。每一个小细节都需要被清楚地传达，没有任何东西可以被遗漏。</p>
+<p data-tool="mdnice编辑器"><strong>执行以下五件事情，让开发团队能够创建出色的动画：</strong></p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>创建一个流程和结构，以便围绕动画进行交流。</section>
+</li>
+<li>
+<section>当你进行设计移交时，请包含关于动画的详细注释和评论。</section>
+</li>
+<li>
+<section>在需要的时候，创建交互式原型，以准确显示你打算如何让事物流动和移动。</section>
+</li>
+<li>
+<section>不要犹豫，当有问题时，更详细地解释你希望你的动画如何发挥。</section>
+</li>
+<li>
+<section>同时，创建一个反馈回路，使设计者了解哪些类型的请求要求较高，哪些请求容易解决。这将使其更容易确定优先级。</section>
+</li>
+</ul>
+<p data-tool="mdnice编辑器"><a href="https://uxplanet.org/how-to-execute-the-perfect-design-to-development-handoff-4a5731bddc50">How to Execute the Perfect Design-to-Development Handoff</a></p>
+</section>
             ]]>
         </content>
     </entry>
