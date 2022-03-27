@@ -3,12 +3,115 @@
     <title>弗兰的自留地</title>
     <link href="https://franllk.github.io/feed.xml" rel="self" />
     <link href="https://franllk.github.io" />
-    <updated>2022-03-26T17:19:30+08:00</updated>
+    <updated>2022-03-27T09:46:20+08:00</updated>
     <author>
         <name>弗兰</name>
     </author>
     <id>https://franllk.github.io</id>
 
+    <entry>
+        <title>「弗兰的 FIRE 计划」终于，我搭建了个人网站 220327</title>
+        <author>
+            <name>弗兰</name>
+        </author>
+        <link href="https://franllk.github.io/fu-lan-de-fire-ji-hua-zhong-yuwo-da-jian-liao-ge-ren-wang-zhan-220327.html"/>
+        <id>https://franllk.github.io/fu-lan-de-fire-ji-hua-zhong-yuwo-da-jian-liao-ge-ren-wang-zhan-220327.html</id>
+            <category term="弗兰的 FIRE 计划"/>
+            <category term="博客"/>
+
+        <updated>2022-03-27T09:30:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://franllk.github.io/media/posts/12/FIREJi-Hua.jpg" alt="" />
+                    心心念的个人网站好几年前我就尝试过，当时使用了 WordPress 模板搭建了一个初步模型，当时的认知是我好像解决不了服务器访问的问题，就放弃了。最近我不是给自己提出了 一个「个体户」的概念，所以象征「个人品牌」的个人网站又勾起了我的欲望。 果断搜索「设计师搭建个人网站」教程，然后这次我尝试了 Webflow、WordPress 等等比较大众点的工具。好吧，这些我都放弃了，尽管是能可视化无代码的搭建自己喜欢的网站，但是我尝试了一下，对于我现在的能力和需求好像都不是太匹配，我常常感觉自己因为这些强大的工具而变得贪婪，最终忘了自己的本质目的。 在不学习代码的情况下，我的需求很简单： 最终我使用了一款非常轻量级的博客应用程序 Publii ，能快速地将网站部署在 Github&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://franllk.github.io/media/posts/12/FIREJi-Hua.jpg" alt="" />
+                <section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com">
+<p data-tool="mdnice编辑器">心心念的个人网站好几年前我就尝试过，当时使用了 WordPress 模板搭建了一个初步模型，当时的认知是我好像解决不了服务器访问的问题，就放弃了。最近我不是给自己提出了<span style="color: #e3782e;"> 一个「个体户」的概念，所以象征「个人品牌」的个人网站又勾起了我的欲望。</span></p>
+<p data-tool="mdnice编辑器">果断搜索「设计师搭建个人网站」教程，然后这次我尝试了 Webflow、WordPress 等等比较大众点的工具。好吧，这些我都放弃了，尽管是能可视化无代码的搭建自己喜欢的网站，但是我尝试了一下，对于我现在的能力和需求好像都不是太匹配，<span style="color: #e3782e;">我常常感觉自己因为这些强大的工具而变得贪婪，最终忘了自己的本质目的。</span> 在不学习代码的情况下，我的需求很简单：</p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>不错的模板（定制化差点都没关系）</section>
+</li>
+<li>
+<section>写博客，发作品</section>
+</li>
+<li>
+<section>价格便宜</section>
+</li>
+<li>
+<section>部署简单</section>
+</li>
+</ul>
+<p data-tool="mdnice编辑器">最终我使用了一款非常轻量级的博客应用程序 Publii ，能快速地将网站部署在 Github Pages 上面。因为我使用的是免费模板，所以目前还没有任何花费。</p>
+<blockquote class="multiquote-1" data-tool="mdnice编辑器">
+<p>Publii 是一款功能强大的博客应用程序，它为新媒体创作者提供了与世界分享他们的想法、想法和创作所需的发布工具。</p>
+</blockquote>
+<p data-tool="mdnice编辑器">对我来说是这是学习成本最低又能满足我需求的方式。我可以在上面发表设计作品，写设计项目案例，写日常博客，个人简介和联系方式等等。</p>
+<p data-tool="mdnice编辑器">这样的方法，内容和部署的问题我都相对轻松的解决了。虽然也遇到了一些问题和困难，但通过阅读文档解决了这些问题也是蛮有成就感的事情。做产品设计这么多年，我越来越明白了一个道理，<span style="color: #e3782e;">适用的工具远远要比功能强大的工具更有用</span><strong>，</strong> 在做事的事情时不要想着一撮而就，一劳永逸。所有的事物都是一步步迭代和慢慢成长起来的。</p>
+<p data-tool="mdnice编辑器">可能这些东西对于一个专业人士来说真的很简单，但对于我来说却是学习新领域的一大步。未来如果我也有能力和精力去搭建更加「酷炫」的网站，也是可以期待的。<span style="color: #e3782e;">永远要学会和自己而不是别人比较。</span></p>
+<p data-tool="mdnice编辑器">欢迎访问我的网站「弗兰的自留地」，目前只是有个大致的框架，内容有时间再一步步填充吧。网址是：<span class="footnote-word"><a href="https://franllk.github.io">https://franllk.github.io</a> </span>。后面再考虑是否要自定义域名。</p>
+<figure data-tool="mdnice编辑器"><img loading="lazy" src="https://files.mdnice.com/user/22598/165a050a-af61-4847-9b57-0690001ae151.png" data-is-external-image="true"  alt="我的网站首页">
+<figcaption>个人网站首页</figcaption>
+</figure>
+<h2 data-tool="mdnice编辑器"><span class="content">专业</span></h2>
+<h3 data-tool="mdnice编辑器"><span class="content">孟岩聊下跌</span></h3>
+<p data-tool="mdnice编辑器">最近听了一期播客节目《<a href="https://www.xiaoyuzhoufm.com/episode/6237f5b103bea1ebfffa1be3"><span class="footnote-word">三五环：No.68 跟孟岩聊聊投资和创业</span></a>》，孟岩聊到了几点如何面对市场下跌，提到一些建议：</p>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>永远不要 All in</section>
+</li>
+<li>
+<section>永远不要 All in 一家公司</section>
+</li>
+<li>
+<section>不要加杠杆</section>
+</li>
+<li>
+<section>留够未来几年的生活费</section>
+</li>
+<li>
+<section>不要因为市场的下跌影响个人的工作和家庭关系</section>
+</li>
+</ul>
+<p data-tool="mdnice编辑器">只有当你真正地经历了市场的周期之后，才会明白这些话的道理。一个好的投资者会把「失败」归因于自己去不断完善投资系统（投资本身就是一件容易的事情），而一个差的投资者总会把「失败」归因于市场、公司、政策。</p>
+<h2 data-tool="mdnice编辑器"><span class="content">言论</span></h2>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>如果仔细读读「反脆弱」，会发现上面总结的很多细节也是塔勒布推崇的。<span style="color: #e3782e;">规律的、成瘾的东西会让你更脆弱，充满随机性的、波动的生活反而会让你更强大。无怪塔勒布说，月薪是最有毒的玩意之一。</span>— 大玩家张磊《少年富豪的美好生活》</section>
+</li>
+<li>
+<section>你所学习和投资的东西，应该是能够积累的知识，这样知识就可以建立在知识的基础上。因此，与其学习一些明天就可能过时的东西，比如某种特定类型的软件（两年后甚至没有人使用） ，<span style="color: #e3782e;">不如选择那些能让你在10年或20年后变得更聪明的东西。</span> 我现在一直在受益于这个教训 。— 熵一《为什么沃伦·巴菲特有那么多的时间去阅读和思考？》</section>
+</li>
+<li>
+<section>如何避免愚蠢的见识？如果你无法外出旅行，也要设法和一些持不同见解的人们有些交往，或者阅读一种和你政见不同的报纸。如果这些人和这种报纸在你看来是疯狂的、乖张的、甚至是可恶的，那么你不应该忘记在人家看来你也是这样。<span style="color: #e3782e;">双方的这种看法可能都是对的，但不可能都是错的。 </span>这样想一下，应该能够慎重一些。— 罗素《如何避免愚蠢的见识》</section>
+</li>
+<li>
+<section>我们应该做一个积极行动的悲观主义者，对未来低期望，但只要是值得的，就坚定去做。<span style="color: #e3782e;">当一个有前途的新项目出现在你面前时，不妨认定它很难成功，但是如果你相信这个项目，即便赚不到钱你也想做，那么无论如此，你要去试一下。</span>— 阮一峰的网络日志《低期望，多尝试》</section>
+</li>
+</ul>
+<h3 data-tool="mdnice编辑器"><span class="content">操作</span></h3>
+<ul data-tool="mdnice编辑器">
+<li>
+<section>周周同行定投 1 份</section>
+</li>
+<li>
+<section>长赢 150 份 补仓 1 份 富国消费</section>
+</li>
+<li>
+<section>长赢 150 份 补仓 0.26 份 中概互联</section>
+</li>
+</ul>
+<section class="footnotes" data-tool="mdnice编辑器">
+<p> </p>
+<span id="fn2" class="footnote-item"></span></section>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2022 年用户体验设计的信息架构指南（译）</title>
         <author>
@@ -425,7 +528,7 @@
         <link href="https://franllk.github.io/guan-yu-wo.html"/>
         <id>https://franllk.github.io/guan-yu-wo.html</id>
 
-        <updated>2022-03-23T09:49:33+08:00</updated>
+        <updated>2022-03-27T09:46:20+08:00</updated>
             <summary>
                 <![CDATA[
                     我叫李霖珂，英文名 Fran（弗兰），2016 年毕业于 四川师范大学数字媒体艺术专业。从大四开始到现在已经有 7 年多 的互联网产品工作经验（包括社交、电商、金融、政府，可视化等等）。我给自己的定位是一名 用户体验设计师。用户体验设计的目的是设计师让用户的体验变得满意和简单。 我当前主要深挖的领域有「设计系统」和「可视化」。这都是两个比较复杂的课题，需要自己阅读大量的国内外资料和书籍，并且在实际的工作中能自如地运用起来。这是一份需要图形化思维和逻辑化思维相结合的工作，我很享受这种感觉。 除了设计以外，我平时也有写一点文章的爱好，我坚信学习是一个不断从输入到输出的过程。所谓的人生成功是认知提升的自然结果。我会将自己阅读的英文设计文章翻译成中文，写一些日常或读书心得，我还给自己开设了一个栏目叫「弗兰的 FIRE 计划」，来记录我每周的投资和学习心得。&hellip;
@@ -448,9 +551,34 @@
 <li>成都灵悦互动科技有限公司 @2018/04/01 → 2020/07/01 </li>
 </ul>
 <h2>⚽️ 技能点</h2>
-<p>软件方面：目前我的主主要设计生成工具是 <strong><span style="color: #e3782e;">Figma</span></strong>，强大的 Figma 基本能覆盖到所有的设计工作。包括设计系统、页面设计、交互设计、原型设计等等。其他的设计工具还有 <strong><span style="color: #e3782e;">Sketch、Photoshop、After Effect、Lottie、Principle、Blender（3D）</span></strong>。</p>
-<p>设计方面：我主要设计的领域有：<strong><span style="color: #e3782e;">APP设计、B端设计、</span></strong><strong><span style="color: #e3782e;">交互设计、</span></strong><strong><span style="color: #e3782e;">图标设计、</span></strong><strong><span style="color: #e3782e;">动效设计、3D设计（学习中）</span></strong>。</p>
-<p> </p>
+<p>软件方面：目前我的主主要设计生成工具是 <span style="color: #e3782e;">Figma</span>，强大的 Figma 基本能覆盖到所有的设计工作。包括设计系统、页面设计、交互设计、原型设计等等。其他的设计工具还有 <span style="color: #e3782e;">Sketch、Photoshop、After Effect、Lottie、Principle、Blender（3D）</span>。</p>
+<p>设计方面：我主要设计的领域有：<span style="color: #e3782e;">APP 设计、B端 设计、</span><span style="color: #e3782e;">交互设计、</span><span style="color: #e3782e;">图标设计、</span><span style="color: #e3782e;">动效设计、3D设计（学习中）</span>。</p>
+<h3>💼 工作职责</h3>
+<p>在日常工作中，主要负责同产品，运营，开发等相关同学配合，跟进产品迭代，输出相关成果，主要负责的具体工作为：</p>
+<ul>
+<li>视觉设计</li>
+<li>组件库设计</li>
+<li>动效设计</li>
+<li>交互设计</li>
+<li>竞品分析报告（竞品跟踪）</li>
+<li>原型设计与方案撰写</li>
+<li>产品数据 Review（埋点梳理，数据跟踪）</li>
+<li>运营活动策划（用户裂变，邀请机制）</li>
+</ul>
+<h2>🔦 平台账号</h2>
+<p>你可以在这些地方找到我：</p>
+<ul>
+<li>微信公众号：弗兰的自留地</li>
+<li><a href="https://www.zhihu.com/people/li-lin-ke-11">知乎</a></li>
+<li><a href="https://matters.news/@FranL">Matters</a></li>
+<li><a href="https://dribbble.com/franllk">Dribbble</a></li>
+</ul>
+<h2>☎️ 联系我</h2>
+<ul>
+<li>手机：186-8177-3773</li>
+<li>微信：Franllk</li>
+<li>邮箱：franllk1122@gmail.com</li>
+</ul>
             ]]>
         </content>
     </entry>
