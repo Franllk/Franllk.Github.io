@@ -45,22 +45,6 @@
             "date_modified": "2022-03-26T16:38:22+08:00"
         },
         {
-            "id": "https://franllk.github.io/fu-lan-de-fire-ji-hua.html",
-            "url": "https://franllk.github.io/fu-lan-de-fire-ji-hua.html",
-            "title": "弗兰的 FIRE 计划",
-            "summary": "测试",
-            "content_html": "\n  <p>\n    测试\n  </p>",
-            "author": {
-                "name": "弗兰"
-            },
-            "tags": [
-                   "弗兰的 FIRE 计划",
-                   "博客"
-            ],
-            "date_published": "2022-03-24T20:18:21+08:00",
-            "date_modified": "2022-03-24T21:00:17+08:00"
-        },
-        {
             "id": "https://franllk.github.io/cha-hua-ji.html",
             "url": "https://franllk.github.io/cha-hua-ji.html",
             "title": "作品集",
